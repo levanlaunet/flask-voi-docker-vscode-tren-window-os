@@ -1,2 +1,4 @@
-# flask-voi-docker-vscode-tren-window-os
-Flask với Docker, VScode trên Window OS
+# Flask với Docker, VScode trên Window OS
+
+### Youtube video: https://youtu.be/FI7iZe_hNb0
+### Blog: https://levanlau.net
